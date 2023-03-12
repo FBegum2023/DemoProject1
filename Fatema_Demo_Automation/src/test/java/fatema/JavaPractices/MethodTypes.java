@@ -29,6 +29,7 @@ public class MethodTypes {
 			obj.employeesInfo("Fatema ", 9000);
 			obj.employeesInfo("Sunny ", 11000);
 			obj.employeesInfo("Tahiya ", 10000);
+			//dSystem.out.println(obj.sal());
 			obj.sal();
 
 		}

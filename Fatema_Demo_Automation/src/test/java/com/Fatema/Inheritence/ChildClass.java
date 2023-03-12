@@ -16,5 +16,9 @@ public class ChildClass extends ParentClass {
 		obj.getInsurance();
 		obj.price();
 	}
-	
+	protected int salary() {
+		int cost = 80000;
+		System.out.println("The cost of the car is :$"+cost);
+		return cost;
+	}
 }
